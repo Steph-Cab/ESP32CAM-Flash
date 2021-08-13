@@ -1,5 +1,7 @@
 # ESP32CAM-Flash
 
+Este repositorio es del Diplomadio Samsung Innovation
+
 Este repositorio contiene el programa básico para hacer parpadear el led flash que se encuentra soldado sobre el ESP32CAM.
 
 Puedes encontrar detalles sobre el ESP32CAM en el siguiente enlace.
